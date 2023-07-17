@@ -1,0 +1,366 @@
+@media only screen and (max-width: 1400px) {
+  a.carousel-control-prev {
+    left: 0%;
+  }
+
+  a.carousel-control-next {
+    right: 0%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .header-top-content {
+    height: auto;
+  }
+
+  .header-top-content>p {
+    font-size: 12px;
+  }
+
+  nav.navbar {
+    padding: 15px;
+  }
+
+  .nav-link-section {
+    margin-bottom: 10px;
+  }
+
+  .nav-link-section ul li a.nav-link {
+    font-size: 16px;
+  }
+
+  a.carousel-control-prev {
+    left: 0%;
+  }
+
+  a.carousel-control-next {
+    right: 0%;
+  }
+
+  .heroes-wrapper .row {
+    padding: 30px 0px;
+  }
+
+  .slider-content .title {
+    font-size: 35px;
+    line-height: inherit;
+  }
+
+  .features-top-section .title,
+  .blog-top-section .title,
+  .contactus-top-section .title {
+    font-size: 35px;
+  }
+
+  .features-top-section,
+  .blog-top-section,
+  .contactus-top-section {
+    margin-bottom: 25px;
+  }
+
+  .features-wrapper {
+    margin-bottom: 20px;
+  }
+
+  .blog-content-wrapper .card-content {
+    height: 350px;
+  }
+
+  .blog-content-wrapper .card-content h6 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
+  .blog-content-wrapper .card-content .description-title {
+    margin-bottom: 20px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .navbar-collapse {
+    display: block !important;
+  }
+
+  .navbar-toggler.collapsed {
+    display: none;
+  }
+
+  .navbar-toggler {
+    display: none;
+  }
+
+  .header-top-section {
+    background-size: auto;
+  }
+
+  .nav-item-section a.nav-link {
+    font-size: 12px;
+  }
+
+  .nav-item-section i.far.fa-user {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+  }
+
+  .nav-item-section i.fas.fa-shopping-cart {
+    font-size: 20px;
+  }
+
+  nav.navbar {
+    padding: 20px 0px;
+  }
+
+  .nav-searchbar input.form-control::placeholder {
+    font-size: 9px !important;
+  }
+
+  .delivery-content {
+    width: 86px;
+    font-size: 10px;
+    padding: 5px 10px;
+  }
+
+  .nav-searchbar input.form-control {
+    padding: 15px 30px 15px 90px;
+  }
+
+  .nav-link-section ul li a.nav-link {
+    font-size: 14px;
+  }
+
+  .nav-link-section a.dropdown-item {
+    font-size: 12px;
+  }
+
+  .nav-link-section .dropdown-menu li {
+    padding: 0px;
+  }
+
+  .slider-image.text-center img {
+    width: 200px;
+  }
+
+  .slider-content .title {
+    font-size: 20px;
+  }
+
+  .categories-wrapper {
+    padding: 30px 0px;
+  }
+
+  .categories-image {
+    margin-bottom: 5px;
+  }
+
+  .features-image {
+    text-align: center;
+  }
+
+  .features-content ul li {
+    width: 100%;
+    padding-left: 0px;
+  }
+
+  .blog-content-wrapper .card-content {
+    height: auto;
+  }
+
+  .contact-form input.form-control::placeholder,
+  .contact-form textarea.form-control::placeholder,
+  .subscribe-box input.form-control::placeholder,
+  .footer-content li,
+  .blog-content-wrapper .card-content .readmore {
+    font-size: 12px;
+  }
+
+  ul.list-unstyled.social-icon li a i {
+    font-size: 14px;
+    width: 30px;
+    height: 30px;
+  }
+
+  .subscribe-box .subscribe {
+    top: 9px;
+    right: 10px;
+    font-size: 12px;
+  }
+
+  .subscribe-content .title {
+    font-size: 20px;
+  }
+
+  .blog-content-wrapper .card-content .description-title {
+    font-size: 11px;
+    margin-bottom: 20px;
+    line-height: inherit;
+  }
+
+  .nav-item-section,
+  .nav-logo {
+    width: 30%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+
+  .navbar-collapse {
+    display: none !important;
+  }
+
+  .navbar-toggler {
+    display: block !important;
+  }
+
+  .navbar-collapse.collapsing,
+  .navbar-collapse.show {
+    display: block !important;
+  }
+
+  .nav-searchbar,
+  .nav-item-section i.fas.fa-shopping-cart {
+    display: none;
+  }
+
+  .nav-item-section,
+  .nav-logo {
+    width: 50%;
+  }
+
+  #navbarSupportedContent ul {
+    width: 100%;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .navbar-top-section,
+  nav.navbar {
+    padding: 10px;
+  }
+
+  .nav-link-section {
+    margin-bottom: 0px;
+  }
+
+  .navbar-toggler {
+    position: absolute;
+    right: -5px;
+    top: -53px;
+    border: none;
+  }
+
+  .navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+  .slider-content .title {
+    font-size: 15px;
+  }
+
+  .features-content ul li,
+  .blog-content-wrapper .card-content h6,
+  .blog-content-wrapper .card-content span.date {
+    font-size: 12px;
+  }
+
+  .features-top-section .title,
+  .blog-top-section .title,
+  .contactus-top-section .title {
+    font-size: 20px;
+  }
+
+  .card.shine {
+    margin-bottom: 20px;
+  }
+
+  .blog-content-wrapper .card-content .readmore {
+    padding: 5px 20px;
+    font-size: 12px;
+    margin-bottom: 35px;
+  }
+
+  .blog-content-wrapper .card-content {
+    padding: 10px;
+  }
+
+  .blog-content-wrapper .card-content .description-title {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .blog-content-wrapper,
+  .blog-wrapper {
+    padding: 10px;
+  }
+
+  .features-top-section,
+  .blog-top-section,
+  .contactus-top-section {
+    margin-bottom: 10px;
+  }
+
+  .contactus-top-section {
+    padding-bottom: 10px;
+  }
+
+  .footer-content-wrapper .row {
+    row-gap: 20px;
+  }
+
+  .contactus-image img {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+
+  .navbar-brand img {
+    width: 90%;
+  }
+
+  .header-top-section,
+  .nav-item-section a.nav-link {
+    display: none;
+  }
+
+  .navbar-toggler {
+    top: -45px;
+  }
+
+  .slider-image.text-center,
+  .features-image {
+    margin-bottom: 20px;
+  }
+
+  .slider-content .title,
+  .footer-wrapper {
+    text-align: center;
+  }
+
+  .categories-wrapper,
+  .subscribe-content {
+    text-align: center;
+  }
+
+  .categories-wrapper .title {
+    font-size: 15px;
+  }
+
+  .features-image img {
+    width: 50%;
+  }
+
+  .features-content ul li,
+  .subscribe-content {
+    margin-bottom: 10px;
+  }
+
+  .contact-form .row {
+    row-gap: 20px;
+  }
+
+  ul.list-unstyled.social-icon {
+    justify-content: center;
+  }
+}
